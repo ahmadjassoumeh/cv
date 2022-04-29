@@ -10,6 +10,9 @@ h1 {
   font-style: oblique;
 
 }
+.ahmad {
+  color: #630000;
+}
 .p1{
   font-style:italic;
 }
@@ -36,7 +39,4 @@ img {
 }
 table{
   background-color: #E0D8B0;
-}
-#heading {
-  color:#040303;
 }
